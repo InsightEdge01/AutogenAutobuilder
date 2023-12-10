@@ -1,0 +1,2 @@
+#install autogen using the terminal
+# pip install git+https://github.com/microsoft/autogen.git 
